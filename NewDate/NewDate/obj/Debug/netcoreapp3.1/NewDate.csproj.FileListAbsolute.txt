@@ -1,0 +1,13 @@
+C:\Users\tristan.hillyard\Desktop\Basic_C#_Programs\NewDate\NewDate\bin\Debug\netcoreapp3.1\NewDate.exe
+C:\Users\tristan.hillyard\Desktop\Basic_C#_Programs\NewDate\NewDate\bin\Debug\netcoreapp3.1\NewDate.deps.json
+C:\Users\tristan.hillyard\Desktop\Basic_C#_Programs\NewDate\NewDate\bin\Debug\netcoreapp3.1\NewDate.runtimeconfig.json
+C:\Users\tristan.hillyard\Desktop\Basic_C#_Programs\NewDate\NewDate\bin\Debug\netcoreapp3.1\NewDate.runtimeconfig.dev.json
+C:\Users\tristan.hillyard\Desktop\Basic_C#_Programs\NewDate\NewDate\bin\Debug\netcoreapp3.1\NewDate.dll
+C:\Users\tristan.hillyard\Desktop\Basic_C#_Programs\NewDate\NewDate\bin\Debug\netcoreapp3.1\NewDate.pdb
+C:\Users\tristan.hillyard\Desktop\Basic_C#_Programs\NewDate\NewDate\obj\Debug\netcoreapp3.1\NewDate.csprojAssemblyReference.cache
+C:\Users\tristan.hillyard\Desktop\Basic_C#_Programs\NewDate\NewDate\obj\Debug\netcoreapp3.1\NewDate.AssemblyInfoInputs.cache
+C:\Users\tristan.hillyard\Desktop\Basic_C#_Programs\NewDate\NewDate\obj\Debug\netcoreapp3.1\NewDate.AssemblyInfo.cs
+C:\Users\tristan.hillyard\Desktop\Basic_C#_Programs\NewDate\NewDate\obj\Debug\netcoreapp3.1\NewDate.csproj.CoreCompileInputs.cache
+C:\Users\tristan.hillyard\Desktop\Basic_C#_Programs\NewDate\NewDate\obj\Debug\netcoreapp3.1\NewDate.dll
+C:\Users\tristan.hillyard\Desktop\Basic_C#_Programs\NewDate\NewDate\obj\Debug\netcoreapp3.1\NewDate.pdb
+C:\Users\tristan.hillyard\Desktop\Basic_C#_Programs\NewDate\NewDate\obj\Debug\netcoreapp3.1\NewDate.genruntimeconfig.cache

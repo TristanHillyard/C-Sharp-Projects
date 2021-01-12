@@ -1,0 +1,13 @@
+C:\Users\tristan.hillyard\Desktop\Basic_C#_Programs\SixPartAssignment\SixPartAssignment\bin\Debug\netcoreapp3.1\SixPartAssignment.exe
+C:\Users\tristan.hillyard\Desktop\Basic_C#_Programs\SixPartAssignment\SixPartAssignment\bin\Debug\netcoreapp3.1\SixPartAssignment.deps.json
+C:\Users\tristan.hillyard\Desktop\Basic_C#_Programs\SixPartAssignment\SixPartAssignment\bin\Debug\netcoreapp3.1\SixPartAssignment.runtimeconfig.json
+C:\Users\tristan.hillyard\Desktop\Basic_C#_Programs\SixPartAssignment\SixPartAssignment\bin\Debug\netcoreapp3.1\SixPartAssignment.runtimeconfig.dev.json
+C:\Users\tristan.hillyard\Desktop\Basic_C#_Programs\SixPartAssignment\SixPartAssignment\bin\Debug\netcoreapp3.1\SixPartAssignment.dll
+C:\Users\tristan.hillyard\Desktop\Basic_C#_Programs\SixPartAssignment\SixPartAssignment\bin\Debug\netcoreapp3.1\SixPartAssignment.pdb
+C:\Users\tristan.hillyard\Desktop\Basic_C#_Programs\SixPartAssignment\SixPartAssignment\obj\Debug\netcoreapp3.1\SixPartAssignment.csprojAssemblyReference.cache
+C:\Users\tristan.hillyard\Desktop\Basic_C#_Programs\SixPartAssignment\SixPartAssignment\obj\Debug\netcoreapp3.1\SixPartAssignment.AssemblyInfoInputs.cache
+C:\Users\tristan.hillyard\Desktop\Basic_C#_Programs\SixPartAssignment\SixPartAssignment\obj\Debug\netcoreapp3.1\SixPartAssignment.AssemblyInfo.cs
+C:\Users\tristan.hillyard\Desktop\Basic_C#_Programs\SixPartAssignment\SixPartAssignment\obj\Debug\netcoreapp3.1\SixPartAssignment.csproj.CoreCompileInputs.cache
+C:\Users\tristan.hillyard\Desktop\Basic_C#_Programs\SixPartAssignment\SixPartAssignment\obj\Debug\netcoreapp3.1\SixPartAssignment.dll
+C:\Users\tristan.hillyard\Desktop\Basic_C#_Programs\SixPartAssignment\SixPartAssignment\obj\Debug\netcoreapp3.1\SixPartAssignment.pdb
+C:\Users\tristan.hillyard\Desktop\Basic_C#_Programs\SixPartAssignment\SixPartAssignment\obj\Debug\netcoreapp3.1\SixPartAssignment.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\tristan.hillyard\Desktop\Basic_C#_Programs\SecondMethodAssin\SecondMethodAssin\bin\Debug\netcoreapp3.1\SecondMethodAssin.exe
+C:\Users\tristan.hillyard\Desktop\Basic_C#_Programs\SecondMethodAssin\SecondMethodAssin\bin\Debug\netcoreapp3.1\SecondMethodAssin.deps.json
+C:\Users\tristan.hillyard\Desktop\Basic_C#_Programs\SecondMethodAssin\SecondMethodAssin\bin\Debug\netcoreapp3.1\SecondMethodAssin.runtimeconfig.json
+C:\Users\tristan.hillyard\Desktop\Basic_C#_Programs\SecondMethodAssin\SecondMethodAssin\bin\Debug\netcoreapp3.1\SecondMethodAssin.runtimeconfig.dev.json
+C:\Users\tristan.hillyard\Desktop\Basic_C#_Programs\SecondMethodAssin\SecondMethodAssin\bin\Debug\netcoreapp3.1\SecondMethodAssin.dll
+C:\Users\tristan.hillyard\Desktop\Basic_C#_Programs\SecondMethodAssin\SecondMethodAssin\bin\Debug\netcoreapp3.1\SecondMethodAssin.pdb
+C:\Users\tristan.hillyard\Desktop\Basic_C#_Programs\SecondMethodAssin\SecondMethodAssin\obj\Debug\netcoreapp3.1\SecondMethodAssin.csprojAssemblyReference.cache
+C:\Users\tristan.hillyard\Desktop\Basic_C#_Programs\SecondMethodAssin\SecondMethodAssin\obj\Debug\netcoreapp3.1\SecondMethodAssin.AssemblyInfoInputs.cache
+C:\Users\tristan.hillyard\Desktop\Basic_C#_Programs\SecondMethodAssin\SecondMethodAssin\obj\Debug\netcoreapp3.1\SecondMethodAssin.AssemblyInfo.cs
+C:\Users\tristan.hillyard\Desktop\Basic_C#_Programs\SecondMethodAssin\SecondMethodAssin\obj\Debug\netcoreapp3.1\SecondMethodAssin.csproj.CoreCompileInputs.cache
+C:\Users\tristan.hillyard\Desktop\Basic_C#_Programs\SecondMethodAssin\SecondMethodAssin\obj\Debug\netcoreapp3.1\SecondMethodAssin.dll
+C:\Users\tristan.hillyard\Desktop\Basic_C#_Programs\SecondMethodAssin\SecondMethodAssin\obj\Debug\netcoreapp3.1\SecondMethodAssin.pdb
+C:\Users\tristan.hillyard\Desktop\Basic_C#_Programs\SecondMethodAssin\SecondMethodAssin\obj\Debug\netcoreapp3.1\SecondMethodAssin.genruntimeconfig.cache

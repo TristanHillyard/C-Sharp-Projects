@@ -1,0 +1,13 @@
+C:\Users\tristan.hillyard\Desktop\Basic_C#_Programs\JobAssignment\JobAssignment\bin\Debug\netcoreapp3.1\JobAssignment.exe
+C:\Users\tristan.hillyard\Desktop\Basic_C#_Programs\JobAssignment\JobAssignment\bin\Debug\netcoreapp3.1\JobAssignment.deps.json
+C:\Users\tristan.hillyard\Desktop\Basic_C#_Programs\JobAssignment\JobAssignment\bin\Debug\netcoreapp3.1\JobAssignment.runtimeconfig.json
+C:\Users\tristan.hillyard\Desktop\Basic_C#_Programs\JobAssignment\JobAssignment\bin\Debug\netcoreapp3.1\JobAssignment.runtimeconfig.dev.json
+C:\Users\tristan.hillyard\Desktop\Basic_C#_Programs\JobAssignment\JobAssignment\bin\Debug\netcoreapp3.1\JobAssignment.dll
+C:\Users\tristan.hillyard\Desktop\Basic_C#_Programs\JobAssignment\JobAssignment\bin\Debug\netcoreapp3.1\JobAssignment.pdb
+C:\Users\tristan.hillyard\Desktop\Basic_C#_Programs\JobAssignment\JobAssignment\obj\Debug\netcoreapp3.1\JobAssignment.csprojAssemblyReference.cache
+C:\Users\tristan.hillyard\Desktop\Basic_C#_Programs\JobAssignment\JobAssignment\obj\Debug\netcoreapp3.1\JobAssignment.AssemblyInfoInputs.cache
+C:\Users\tristan.hillyard\Desktop\Basic_C#_Programs\JobAssignment\JobAssignment\obj\Debug\netcoreapp3.1\JobAssignment.AssemblyInfo.cs
+C:\Users\tristan.hillyard\Desktop\Basic_C#_Programs\JobAssignment\JobAssignment\obj\Debug\netcoreapp3.1\JobAssignment.csproj.CoreCompileInputs.cache
+C:\Users\tristan.hillyard\Desktop\Basic_C#_Programs\JobAssignment\JobAssignment\obj\Debug\netcoreapp3.1\JobAssignment.dll
+C:\Users\tristan.hillyard\Desktop\Basic_C#_Programs\JobAssignment\JobAssignment\obj\Debug\netcoreapp3.1\JobAssignment.pdb
+C:\Users\tristan.hillyard\Desktop\Basic_C#_Programs\JobAssignment\JobAssignment\obj\Debug\netcoreapp3.1\JobAssignment.genruntimeconfig.cache

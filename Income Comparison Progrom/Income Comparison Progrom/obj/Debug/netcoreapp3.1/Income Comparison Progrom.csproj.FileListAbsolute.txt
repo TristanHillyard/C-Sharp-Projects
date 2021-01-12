@@ -1,0 +1,13 @@
+C:\Users\tristan.hillyard\Desktop\Basic_C#_Programs\Income Comparison Progrom\Income Comparison Progrom\obj\Debug\netcoreapp3.1\Income Comparison Progrom.csprojAssemblyReference.cache
+C:\Users\tristan.hillyard\Desktop\Basic_C#_Programs\Income Comparison Progrom\Income Comparison Progrom\obj\Debug\netcoreapp3.1\Income Comparison Progrom.AssemblyInfoInputs.cache
+C:\Users\tristan.hillyard\Desktop\Basic_C#_Programs\Income Comparison Progrom\Income Comparison Progrom\obj\Debug\netcoreapp3.1\Income Comparison Progrom.AssemblyInfo.cs
+C:\Users\tristan.hillyard\Desktop\Basic_C#_Programs\Income Comparison Progrom\Income Comparison Progrom\obj\Debug\netcoreapp3.1\Income Comparison Progrom.csproj.CoreCompileInputs.cache
+C:\Users\tristan.hillyard\Desktop\Basic_C#_Programs\Income Comparison Progrom\Income Comparison Progrom\bin\Debug\netcoreapp3.1\Income Comparison Progrom.exe
+C:\Users\tristan.hillyard\Desktop\Basic_C#_Programs\Income Comparison Progrom\Income Comparison Progrom\bin\Debug\netcoreapp3.1\Income Comparison Progrom.deps.json
+C:\Users\tristan.hillyard\Desktop\Basic_C#_Programs\Income Comparison Progrom\Income Comparison Progrom\bin\Debug\netcoreapp3.1\Income Comparison Progrom.runtimeconfig.json
+C:\Users\tristan.hillyard\Desktop\Basic_C#_Programs\Income Comparison Progrom\Income Comparison Progrom\bin\Debug\netcoreapp3.1\Income Comparison Progrom.runtimeconfig.dev.json
+C:\Users\tristan.hillyard\Desktop\Basic_C#_Programs\Income Comparison Progrom\Income Comparison Progrom\bin\Debug\netcoreapp3.1\Income Comparison Progrom.dll
+C:\Users\tristan.hillyard\Desktop\Basic_C#_Programs\Income Comparison Progrom\Income Comparison Progrom\bin\Debug\netcoreapp3.1\Income Comparison Progrom.pdb
+C:\Users\tristan.hillyard\Desktop\Basic_C#_Programs\Income Comparison Progrom\Income Comparison Progrom\obj\Debug\netcoreapp3.1\Income Comparison Progrom.dll
+C:\Users\tristan.hillyard\Desktop\Basic_C#_Programs\Income Comparison Progrom\Income Comparison Progrom\obj\Debug\netcoreapp3.1\Income Comparison Progrom.pdb
+C:\Users\tristan.hillyard\Desktop\Basic_C#_Programs\Income Comparison Progrom\Income Comparison Progrom\obj\Debug\netcoreapp3.1\Income Comparison Progrom.genruntimeconfig.cache

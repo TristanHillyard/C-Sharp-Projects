@@ -1,0 +1,13 @@
+C:\Users\tristan.hillyard\Desktop\Basic_C#_Programs\Stringy\Stringy\bin\Debug\netcoreapp3.1\Stringy.exe
+C:\Users\tristan.hillyard\Desktop\Basic_C#_Programs\Stringy\Stringy\bin\Debug\netcoreapp3.1\Stringy.deps.json
+C:\Users\tristan.hillyard\Desktop\Basic_C#_Programs\Stringy\Stringy\bin\Debug\netcoreapp3.1\Stringy.runtimeconfig.json
+C:\Users\tristan.hillyard\Desktop\Basic_C#_Programs\Stringy\Stringy\bin\Debug\netcoreapp3.1\Stringy.runtimeconfig.dev.json
+C:\Users\tristan.hillyard\Desktop\Basic_C#_Programs\Stringy\Stringy\bin\Debug\netcoreapp3.1\Stringy.dll
+C:\Users\tristan.hillyard\Desktop\Basic_C#_Programs\Stringy\Stringy\bin\Debug\netcoreapp3.1\Stringy.pdb
+C:\Users\tristan.hillyard\Desktop\Basic_C#_Programs\Stringy\Stringy\obj\Debug\netcoreapp3.1\Stringy.csprojAssemblyReference.cache
+C:\Users\tristan.hillyard\Desktop\Basic_C#_Programs\Stringy\Stringy\obj\Debug\netcoreapp3.1\Stringy.AssemblyInfoInputs.cache
+C:\Users\tristan.hillyard\Desktop\Basic_C#_Programs\Stringy\Stringy\obj\Debug\netcoreapp3.1\Stringy.AssemblyInfo.cs
+C:\Users\tristan.hillyard\Desktop\Basic_C#_Programs\Stringy\Stringy\obj\Debug\netcoreapp3.1\Stringy.csproj.CoreCompileInputs.cache
+C:\Users\tristan.hillyard\Desktop\Basic_C#_Programs\Stringy\Stringy\obj\Debug\netcoreapp3.1\Stringy.dll
+C:\Users\tristan.hillyard\Desktop\Basic_C#_Programs\Stringy\Stringy\obj\Debug\netcoreapp3.1\Stringy.pdb
+C:\Users\tristan.hillyard\Desktop\Basic_C#_Programs\Stringy\Stringy\obj\Debug\netcoreapp3.1\Stringy.genruntimeconfig.cache

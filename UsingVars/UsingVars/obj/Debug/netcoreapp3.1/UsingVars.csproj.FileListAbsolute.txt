@@ -1,0 +1,13 @@
+C:\Users\tristan.hillyard\Desktop\Basic_C#_Programs\UsingVars\UsingVars\bin\Debug\netcoreapp3.1\UsingVars.exe
+C:\Users\tristan.hillyard\Desktop\Basic_C#_Programs\UsingVars\UsingVars\bin\Debug\netcoreapp3.1\UsingVars.deps.json
+C:\Users\tristan.hillyard\Desktop\Basic_C#_Programs\UsingVars\UsingVars\bin\Debug\netcoreapp3.1\UsingVars.runtimeconfig.json
+C:\Users\tristan.hillyard\Desktop\Basic_C#_Programs\UsingVars\UsingVars\bin\Debug\netcoreapp3.1\UsingVars.runtimeconfig.dev.json
+C:\Users\tristan.hillyard\Desktop\Basic_C#_Programs\UsingVars\UsingVars\bin\Debug\netcoreapp3.1\UsingVars.dll
+C:\Users\tristan.hillyard\Desktop\Basic_C#_Programs\UsingVars\UsingVars\bin\Debug\netcoreapp3.1\UsingVars.pdb
+C:\Users\tristan.hillyard\Desktop\Basic_C#_Programs\UsingVars\UsingVars\obj\Debug\netcoreapp3.1\UsingVars.csprojAssemblyReference.cache
+C:\Users\tristan.hillyard\Desktop\Basic_C#_Programs\UsingVars\UsingVars\obj\Debug\netcoreapp3.1\UsingVars.AssemblyInfoInputs.cache
+C:\Users\tristan.hillyard\Desktop\Basic_C#_Programs\UsingVars\UsingVars\obj\Debug\netcoreapp3.1\UsingVars.AssemblyInfo.cs
+C:\Users\tristan.hillyard\Desktop\Basic_C#_Programs\UsingVars\UsingVars\obj\Debug\netcoreapp3.1\UsingVars.csproj.CoreCompileInputs.cache
+C:\Users\tristan.hillyard\Desktop\Basic_C#_Programs\UsingVars\UsingVars\obj\Debug\netcoreapp3.1\UsingVars.dll
+C:\Users\tristan.hillyard\Desktop\Basic_C#_Programs\UsingVars\UsingVars\obj\Debug\netcoreapp3.1\UsingVars.pdb
+C:\Users\tristan.hillyard\Desktop\Basic_C#_Programs\UsingVars\UsingVars\obj\Debug\netcoreapp3.1\UsingVars.genruntimeconfig.cache

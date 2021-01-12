@@ -1,0 +1,12 @@
+C:\Users\tristan.hillyard\Desktop\Basic_C#_Programs\UsingLogs\UsingLogs\bin\Debug\netcoreapp3.1\UsingLogs.exe
+C:\Users\tristan.hillyard\Desktop\Basic_C#_Programs\UsingLogs\UsingLogs\bin\Debug\netcoreapp3.1\UsingLogs.deps.json
+C:\Users\tristan.hillyard\Desktop\Basic_C#_Programs\UsingLogs\UsingLogs\bin\Debug\netcoreapp3.1\UsingLogs.runtimeconfig.json
+C:\Users\tristan.hillyard\Desktop\Basic_C#_Programs\UsingLogs\UsingLogs\bin\Debug\netcoreapp3.1\UsingLogs.runtimeconfig.dev.json
+C:\Users\tristan.hillyard\Desktop\Basic_C#_Programs\UsingLogs\UsingLogs\bin\Debug\netcoreapp3.1\UsingLogs.dll
+C:\Users\tristan.hillyard\Desktop\Basic_C#_Programs\UsingLogs\UsingLogs\bin\Debug\netcoreapp3.1\UsingLogs.pdb
+C:\Users\tristan.hillyard\Desktop\Basic_C#_Programs\UsingLogs\UsingLogs\obj\Debug\netcoreapp3.1\UsingLogs.AssemblyInfoInputs.cache
+C:\Users\tristan.hillyard\Desktop\Basic_C#_Programs\UsingLogs\UsingLogs\obj\Debug\netcoreapp3.1\UsingLogs.AssemblyInfo.cs
+C:\Users\tristan.hillyard\Desktop\Basic_C#_Programs\UsingLogs\UsingLogs\obj\Debug\netcoreapp3.1\UsingLogs.csproj.CoreCompileInputs.cache
+C:\Users\tristan.hillyard\Desktop\Basic_C#_Programs\UsingLogs\UsingLogs\obj\Debug\netcoreapp3.1\UsingLogs.dll
+C:\Users\tristan.hillyard\Desktop\Basic_C#_Programs\UsingLogs\UsingLogs\obj\Debug\netcoreapp3.1\UsingLogs.pdb
+C:\Users\tristan.hillyard\Desktop\Basic_C#_Programs\UsingLogs\UsingLogs\obj\Debug\netcoreapp3.1\UsingLogs.genruntimeconfig.cache

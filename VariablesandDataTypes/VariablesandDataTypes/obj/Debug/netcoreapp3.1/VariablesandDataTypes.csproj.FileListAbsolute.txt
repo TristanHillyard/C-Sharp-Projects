@@ -1,0 +1,13 @@
+C:\Users\tristan.hillyard\Desktop\Basic_C#_Programs\VariablesandDataTypes\VariablesandDataTypes\bin\Debug\netcoreapp3.1\VariablesandDataTypes.exe
+C:\Users\tristan.hillyard\Desktop\Basic_C#_Programs\VariablesandDataTypes\VariablesandDataTypes\bin\Debug\netcoreapp3.1\VariablesandDataTypes.deps.json
+C:\Users\tristan.hillyard\Desktop\Basic_C#_Programs\VariablesandDataTypes\VariablesandDataTypes\bin\Debug\netcoreapp3.1\VariablesandDataTypes.runtimeconfig.json
+C:\Users\tristan.hillyard\Desktop\Basic_C#_Programs\VariablesandDataTypes\VariablesandDataTypes\bin\Debug\netcoreapp3.1\VariablesandDataTypes.runtimeconfig.dev.json
+C:\Users\tristan.hillyard\Desktop\Basic_C#_Programs\VariablesandDataTypes\VariablesandDataTypes\bin\Debug\netcoreapp3.1\VariablesandDataTypes.dll
+C:\Users\tristan.hillyard\Desktop\Basic_C#_Programs\VariablesandDataTypes\VariablesandDataTypes\bin\Debug\netcoreapp3.1\VariablesandDataTypes.pdb
+C:\Users\tristan.hillyard\Desktop\Basic_C#_Programs\VariablesandDataTypes\VariablesandDataTypes\obj\Debug\netcoreapp3.1\VariablesandDataTypes.csprojAssemblyReference.cache
+C:\Users\tristan.hillyard\Desktop\Basic_C#_Programs\VariablesandDataTypes\VariablesandDataTypes\obj\Debug\netcoreapp3.1\VariablesandDataTypes.AssemblyInfoInputs.cache
+C:\Users\tristan.hillyard\Desktop\Basic_C#_Programs\VariablesandDataTypes\VariablesandDataTypes\obj\Debug\netcoreapp3.1\VariablesandDataTypes.AssemblyInfo.cs
+C:\Users\tristan.hillyard\Desktop\Basic_C#_Programs\VariablesandDataTypes\VariablesandDataTypes\obj\Debug\netcoreapp3.1\VariablesandDataTypes.csproj.CoreCompileInputs.cache
+C:\Users\tristan.hillyard\Desktop\Basic_C#_Programs\VariablesandDataTypes\VariablesandDataTypes\obj\Debug\netcoreapp3.1\VariablesandDataTypes.dll
+C:\Users\tristan.hillyard\Desktop\Basic_C#_Programs\VariablesandDataTypes\VariablesandDataTypes\obj\Debug\netcoreapp3.1\VariablesandDataTypes.pdb
+C:\Users\tristan.hillyard\Desktop\Basic_C#_Programs\VariablesandDataTypes\VariablesandDataTypes\obj\Debug\netcoreapp3.1\VariablesandDataTypes.genruntimeconfig.cache

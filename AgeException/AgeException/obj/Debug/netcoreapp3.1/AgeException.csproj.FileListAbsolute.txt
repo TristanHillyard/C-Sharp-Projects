@@ -1,0 +1,13 @@
+C:\Users\tristan.hillyard\Desktop\Basic_C#_Programs\AgeException\AgeException\bin\Debug\netcoreapp3.1\AgeException.exe
+C:\Users\tristan.hillyard\Desktop\Basic_C#_Programs\AgeException\AgeException\bin\Debug\netcoreapp3.1\AgeException.deps.json
+C:\Users\tristan.hillyard\Desktop\Basic_C#_Programs\AgeException\AgeException\bin\Debug\netcoreapp3.1\AgeException.runtimeconfig.json
+C:\Users\tristan.hillyard\Desktop\Basic_C#_Programs\AgeException\AgeException\bin\Debug\netcoreapp3.1\AgeException.runtimeconfig.dev.json
+C:\Users\tristan.hillyard\Desktop\Basic_C#_Programs\AgeException\AgeException\bin\Debug\netcoreapp3.1\AgeException.dll
+C:\Users\tristan.hillyard\Desktop\Basic_C#_Programs\AgeException\AgeException\bin\Debug\netcoreapp3.1\AgeException.pdb
+C:\Users\tristan.hillyard\Desktop\Basic_C#_Programs\AgeException\AgeException\obj\Debug\netcoreapp3.1\AgeException.csprojAssemblyReference.cache
+C:\Users\tristan.hillyard\Desktop\Basic_C#_Programs\AgeException\AgeException\obj\Debug\netcoreapp3.1\AgeException.AssemblyInfoInputs.cache
+C:\Users\tristan.hillyard\Desktop\Basic_C#_Programs\AgeException\AgeException\obj\Debug\netcoreapp3.1\AgeException.AssemblyInfo.cs
+C:\Users\tristan.hillyard\Desktop\Basic_C#_Programs\AgeException\AgeException\obj\Debug\netcoreapp3.1\AgeException.csproj.CoreCompileInputs.cache
+C:\Users\tristan.hillyard\Desktop\Basic_C#_Programs\AgeException\AgeException\obj\Debug\netcoreapp3.1\AgeException.dll
+C:\Users\tristan.hillyard\Desktop\Basic_C#_Programs\AgeException\AgeException\obj\Debug\netcoreapp3.1\AgeException.pdb
+C:\Users\tristan.hillyard\Desktop\Basic_C#_Programs\AgeException\AgeException\obj\Debug\netcoreapp3.1\AgeException.genruntimeconfig.cache

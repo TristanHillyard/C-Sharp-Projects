@@ -1,0 +1,13 @@
+C:\Users\tristan.hillyard\Desktop\Basic_C#_Programs\Cars\Cars\bin\Debug\netcoreapp3.1\Cars.exe
+C:\Users\tristan.hillyard\Desktop\Basic_C#_Programs\Cars\Cars\bin\Debug\netcoreapp3.1\Cars.deps.json
+C:\Users\tristan.hillyard\Desktop\Basic_C#_Programs\Cars\Cars\bin\Debug\netcoreapp3.1\Cars.runtimeconfig.json
+C:\Users\tristan.hillyard\Desktop\Basic_C#_Programs\Cars\Cars\bin\Debug\netcoreapp3.1\Cars.runtimeconfig.dev.json
+C:\Users\tristan.hillyard\Desktop\Basic_C#_Programs\Cars\Cars\bin\Debug\netcoreapp3.1\Cars.dll
+C:\Users\tristan.hillyard\Desktop\Basic_C#_Programs\Cars\Cars\bin\Debug\netcoreapp3.1\Cars.pdb
+C:\Users\tristan.hillyard\Desktop\Basic_C#_Programs\Cars\Cars\obj\Debug\netcoreapp3.1\Cars.csprojAssemblyReference.cache
+C:\Users\tristan.hillyard\Desktop\Basic_C#_Programs\Cars\Cars\obj\Debug\netcoreapp3.1\Cars.AssemblyInfoInputs.cache
+C:\Users\tristan.hillyard\Desktop\Basic_C#_Programs\Cars\Cars\obj\Debug\netcoreapp3.1\Cars.AssemblyInfo.cs
+C:\Users\tristan.hillyard\Desktop\Basic_C#_Programs\Cars\Cars\obj\Debug\netcoreapp3.1\Cars.csproj.CoreCompileInputs.cache
+C:\Users\tristan.hillyard\Desktop\Basic_C#_Programs\Cars\Cars\obj\Debug\netcoreapp3.1\Cars.dll
+C:\Users\tristan.hillyard\Desktop\Basic_C#_Programs\Cars\Cars\obj\Debug\netcoreapp3.1\Cars.pdb
+C:\Users\tristan.hillyard\Desktop\Basic_C#_Programs\Cars\Cars\obj\Debug\netcoreapp3.1\Cars.genruntimeconfig.cache

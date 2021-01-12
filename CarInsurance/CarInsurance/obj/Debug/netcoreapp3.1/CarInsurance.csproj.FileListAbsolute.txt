@@ -1,0 +1,13 @@
+C:\Users\tristan.hillyard\Desktop\Basic_C#_Programs\CarInsurance\CarInsurance\bin\Debug\netcoreapp3.1\CarInsurance.exe
+C:\Users\tristan.hillyard\Desktop\Basic_C#_Programs\CarInsurance\CarInsurance\bin\Debug\netcoreapp3.1\CarInsurance.deps.json
+C:\Users\tristan.hillyard\Desktop\Basic_C#_Programs\CarInsurance\CarInsurance\bin\Debug\netcoreapp3.1\CarInsurance.runtimeconfig.json
+C:\Users\tristan.hillyard\Desktop\Basic_C#_Programs\CarInsurance\CarInsurance\bin\Debug\netcoreapp3.1\CarInsurance.runtimeconfig.dev.json
+C:\Users\tristan.hillyard\Desktop\Basic_C#_Programs\CarInsurance\CarInsurance\bin\Debug\netcoreapp3.1\CarInsurance.dll
+C:\Users\tristan.hillyard\Desktop\Basic_C#_Programs\CarInsurance\CarInsurance\bin\Debug\netcoreapp3.1\CarInsurance.pdb
+C:\Users\tristan.hillyard\Desktop\Basic_C#_Programs\CarInsurance\CarInsurance\obj\Debug\netcoreapp3.1\CarInsurance.csprojAssemblyReference.cache
+C:\Users\tristan.hillyard\Desktop\Basic_C#_Programs\CarInsurance\CarInsurance\obj\Debug\netcoreapp3.1\CarInsurance.AssemblyInfoInputs.cache
+C:\Users\tristan.hillyard\Desktop\Basic_C#_Programs\CarInsurance\CarInsurance\obj\Debug\netcoreapp3.1\CarInsurance.AssemblyInfo.cs
+C:\Users\tristan.hillyard\Desktop\Basic_C#_Programs\CarInsurance\CarInsurance\obj\Debug\netcoreapp3.1\CarInsurance.csproj.CoreCompileInputs.cache
+C:\Users\tristan.hillyard\Desktop\Basic_C#_Programs\CarInsurance\CarInsurance\obj\Debug\netcoreapp3.1\CarInsurance.dll
+C:\Users\tristan.hillyard\Desktop\Basic_C#_Programs\CarInsurance\CarInsurance\obj\Debug\netcoreapp3.1\CarInsurance.pdb
+C:\Users\tristan.hillyard\Desktop\Basic_C#_Programs\CarInsurance\CarInsurance\obj\Debug\netcoreapp3.1\CarInsurance.genruntimeconfig.cache

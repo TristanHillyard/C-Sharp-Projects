@@ -1,0 +1,13 @@
+C:\Users\tristan.hillyard\Desktop\Basic_C#_Programs\MathAssignment\MathAssignment\bin\Debug\netcoreapp3.1\MathAssignment.exe
+C:\Users\tristan.hillyard\Desktop\Basic_C#_Programs\MathAssignment\MathAssignment\bin\Debug\netcoreapp3.1\MathAssignment.deps.json
+C:\Users\tristan.hillyard\Desktop\Basic_C#_Programs\MathAssignment\MathAssignment\bin\Debug\netcoreapp3.1\MathAssignment.runtimeconfig.json
+C:\Users\tristan.hillyard\Desktop\Basic_C#_Programs\MathAssignment\MathAssignment\bin\Debug\netcoreapp3.1\MathAssignment.runtimeconfig.dev.json
+C:\Users\tristan.hillyard\Desktop\Basic_C#_Programs\MathAssignment\MathAssignment\bin\Debug\netcoreapp3.1\MathAssignment.dll
+C:\Users\tristan.hillyard\Desktop\Basic_C#_Programs\MathAssignment\MathAssignment\bin\Debug\netcoreapp3.1\MathAssignment.pdb
+C:\Users\tristan.hillyard\Desktop\Basic_C#_Programs\MathAssignment\MathAssignment\obj\Debug\netcoreapp3.1\MathAssignment.csprojAssemblyReference.cache
+C:\Users\tristan.hillyard\Desktop\Basic_C#_Programs\MathAssignment\MathAssignment\obj\Debug\netcoreapp3.1\MathAssignment.AssemblyInfoInputs.cache
+C:\Users\tristan.hillyard\Desktop\Basic_C#_Programs\MathAssignment\MathAssignment\obj\Debug\netcoreapp3.1\MathAssignment.AssemblyInfo.cs
+C:\Users\tristan.hillyard\Desktop\Basic_C#_Programs\MathAssignment\MathAssignment\obj\Debug\netcoreapp3.1\MathAssignment.csproj.CoreCompileInputs.cache
+C:\Users\tristan.hillyard\Desktop\Basic_C#_Programs\MathAssignment\MathAssignment\obj\Debug\netcoreapp3.1\MathAssignment.dll
+C:\Users\tristan.hillyard\Desktop\Basic_C#_Programs\MathAssignment\MathAssignment\obj\Debug\netcoreapp3.1\MathAssignment.pdb
+C:\Users\tristan.hillyard\Desktop\Basic_C#_Programs\MathAssignment\MathAssignment\obj\Debug\netcoreapp3.1\MathAssignment.genruntimeconfig.cache

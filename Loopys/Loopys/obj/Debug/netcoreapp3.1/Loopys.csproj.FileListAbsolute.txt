@@ -1,0 +1,13 @@
+C:\Users\tristan.hillyard\Desktop\Basic_C#_Programs\Loopys\Loopys\bin\Debug\netcoreapp3.1\Loopys.exe
+C:\Users\tristan.hillyard\Desktop\Basic_C#_Programs\Loopys\Loopys\bin\Debug\netcoreapp3.1\Loopys.deps.json
+C:\Users\tristan.hillyard\Desktop\Basic_C#_Programs\Loopys\Loopys\bin\Debug\netcoreapp3.1\Loopys.runtimeconfig.json
+C:\Users\tristan.hillyard\Desktop\Basic_C#_Programs\Loopys\Loopys\bin\Debug\netcoreapp3.1\Loopys.runtimeconfig.dev.json
+C:\Users\tristan.hillyard\Desktop\Basic_C#_Programs\Loopys\Loopys\bin\Debug\netcoreapp3.1\Loopys.dll
+C:\Users\tristan.hillyard\Desktop\Basic_C#_Programs\Loopys\Loopys\bin\Debug\netcoreapp3.1\Loopys.pdb
+C:\Users\tristan.hillyard\Desktop\Basic_C#_Programs\Loopys\Loopys\obj\Debug\netcoreapp3.1\Loopys.csprojAssemblyReference.cache
+C:\Users\tristan.hillyard\Desktop\Basic_C#_Programs\Loopys\Loopys\obj\Debug\netcoreapp3.1\Loopys.AssemblyInfoInputs.cache
+C:\Users\tristan.hillyard\Desktop\Basic_C#_Programs\Loopys\Loopys\obj\Debug\netcoreapp3.1\Loopys.AssemblyInfo.cs
+C:\Users\tristan.hillyard\Desktop\Basic_C#_Programs\Loopys\Loopys\obj\Debug\netcoreapp3.1\Loopys.csproj.CoreCompileInputs.cache
+C:\Users\tristan.hillyard\Desktop\Basic_C#_Programs\Loopys\Loopys\obj\Debug\netcoreapp3.1\Loopys.dll
+C:\Users\tristan.hillyard\Desktop\Basic_C#_Programs\Loopys\Loopys\obj\Debug\netcoreapp3.1\Loopys.pdb
+C:\Users\tristan.hillyard\Desktop\Basic_C#_Programs\Loopys\Loopys\obj\Debug\netcoreapp3.1\Loopys.genruntimeconfig.cache

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loopys", "Loopys\Loopys.csproj", "{13520684-5089-4F40-94EC-B8D0C60AAD4C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{13520684-5089-4F40-94EC-B8D0C60AAD4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13520684-5089-4F40-94EC-B8D0C60AAD4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13520684-5089-4F40-94EC-B8D0C60AAD4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13520684-5089-4F40-94EC-B8D0C60AAD4C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {051259F7-CE71-4C24-A8B7-343E2F6B3854}
+	EndGlobalSection
+EndGlobal

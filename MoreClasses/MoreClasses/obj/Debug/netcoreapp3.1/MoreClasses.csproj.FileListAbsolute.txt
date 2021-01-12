@@ -1,0 +1,13 @@
+C:\Users\tristan.hillyard\Desktop\Basic_C#_Programs\MoreClasses\MoreClasses\bin\Debug\netcoreapp3.1\MoreClasses.exe
+C:\Users\tristan.hillyard\Desktop\Basic_C#_Programs\MoreClasses\MoreClasses\bin\Debug\netcoreapp3.1\MoreClasses.deps.json
+C:\Users\tristan.hillyard\Desktop\Basic_C#_Programs\MoreClasses\MoreClasses\bin\Debug\netcoreapp3.1\MoreClasses.runtimeconfig.json
+C:\Users\tristan.hillyard\Desktop\Basic_C#_Programs\MoreClasses\MoreClasses\bin\Debug\netcoreapp3.1\MoreClasses.runtimeconfig.dev.json
+C:\Users\tristan.hillyard\Desktop\Basic_C#_Programs\MoreClasses\MoreClasses\bin\Debug\netcoreapp3.1\MoreClasses.dll
+C:\Users\tristan.hillyard\Desktop\Basic_C#_Programs\MoreClasses\MoreClasses\bin\Debug\netcoreapp3.1\MoreClasses.pdb
+C:\Users\tristan.hillyard\Desktop\Basic_C#_Programs\MoreClasses\MoreClasses\obj\Debug\netcoreapp3.1\MoreClasses.csprojAssemblyReference.cache
+C:\Users\tristan.hillyard\Desktop\Basic_C#_Programs\MoreClasses\MoreClasses\obj\Debug\netcoreapp3.1\MoreClasses.AssemblyInfoInputs.cache
+C:\Users\tristan.hillyard\Desktop\Basic_C#_Programs\MoreClasses\MoreClasses\obj\Debug\netcoreapp3.1\MoreClasses.AssemblyInfo.cs
+C:\Users\tristan.hillyard\Desktop\Basic_C#_Programs\MoreClasses\MoreClasses\obj\Debug\netcoreapp3.1\MoreClasses.csproj.CoreCompileInputs.cache
+C:\Users\tristan.hillyard\Desktop\Basic_C#_Programs\MoreClasses\MoreClasses\obj\Debug\netcoreapp3.1\MoreClasses.dll
+C:\Users\tristan.hillyard\Desktop\Basic_C#_Programs\MoreClasses\MoreClasses\obj\Debug\netcoreapp3.1\MoreClasses.pdb
+C:\Users\tristan.hillyard\Desktop\Basic_C#_Programs\MoreClasses\MoreClasses\obj\Debug\netcoreapp3.1\MoreClasses.genruntimeconfig.cache
